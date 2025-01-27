@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    border:0px;
+    padding:0px;
+}
+
+.page{
+    padding: 10px;
+    padding-left: 20px;
+    background-color: blue;
+    color: aliceblue;
+}
+.container{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.btns{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+    width:250px;
+    padding: 10px;
+    font-size:2rem;
+}

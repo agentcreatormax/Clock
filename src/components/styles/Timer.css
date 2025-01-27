@@ -1,0 +1,18 @@
+.page{
+    padding: 10px;
+    padding-left: 20px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.text{
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+.back{
+    background-color: blue;
+    color: aliceblue;
+    margin-right: 10px;
+    size: 200px;
+}

@@ -1,0 +1,62 @@
+.page{
+    padding: 10px;
+    padding-left: 20px;
+    background-color: blue;
+    color: aliceblue;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.btn{
+    display: flex;
+    gap: 50px;
+    padding-right: 10px;
+    
+}
+.playbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(121, 179, 34);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
+.stopbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
+.resetbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(234, 234, 30);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
+.gap{
+    margin-left: 20px;
+}
+.time{
+    font-size: 5rem;
+}
+.back{
+    background-color: blue;
+    color: aliceblue;
+    margin-right: 10px;
+    size: 200px;
+}
